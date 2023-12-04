@@ -1,0 +1,15 @@
+.container{
+	margin: 3rem 2rem;
+	display: flex;
+	justify-content: space-between;
+}
+
+ul{
+	display: flex;
+	gap: 4rem;
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
