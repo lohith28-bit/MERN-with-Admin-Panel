@@ -1,11 +1,3 @@
-// export const Home = ()=>{
-// 	return <h1>
-// 		Hello from Home!!!!
-// 	</h1>
-// }
-
-// import { Analytics } from "../components/Analytics";
-
 export const Home = () => {
 	return (
 		<>
@@ -31,7 +23,6 @@ export const Home = () => {
 							</div>
 						</div>
 
-						{/* hero images  */}
 						<div className="hero-image">
 							<img
 								src="/images/home.png"
@@ -50,7 +41,6 @@ export const Home = () => {
 			{/* 3rd section  */}
 			<section className="section-hero">
 				<div className="container grid grid-two-cols">
-					{/* hero images  */}
 					<div className="hero-image">
 						<img
 							src="/images/design.png"
@@ -65,7 +55,7 @@ export const Home = () => {
 						<h1>Get Started Today</h1>
 						<p>
 							Ready to take the first step towards a more efficient and secure
-							IT infrastructure? Contact us today for a free consultation and discuss how Thapa Technical can help your business thrive in
+							IT infrastructure? Contact us today for a free consultation and discuss how FOMO shop can help your business thrive in
 							the digital age.
 						</p>
 						<div className="btn btn-group">
